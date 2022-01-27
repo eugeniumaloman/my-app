@@ -14,8 +14,6 @@ const mainCenter = {
   downloadGalleryText: "Download Gallery"
 }
 
-// const wolvePhotos = require('./wolves.json');
-
 ReactDOM.render(
   <React.StrictMode>
     <App mainTopProp={mainTop} mainCenterProp={mainCenter} />

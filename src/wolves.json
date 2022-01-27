@@ -1,0 +1,31 @@
+{
+	"wolves": [
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf1.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf2.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf3.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf4.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf5.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf6.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf7.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf8.png"
+		]},
+		{ "images": [
+			"https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf9.png"
+		]}
+	]
+}

@@ -1,0 +1,26 @@
+.main-top {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5rem 0 5rem;
+}
+
+.bootstrap-gallery {
+    color: white;
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.download-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    color: white;
+    background-color: #FF3467;
+    font-weight: bold;
+    font-size: 2rem;
+    border-radius: 6rem;
+    height: 43px;
+    flex: 0.17;
+}
